@@ -1,3 +1,4 @@
 # nadzey.github.io
-#repository Netflix
-#deploy: [link](https://nadzey.github.io/netflix/)
+Private repository for @nadzey
+- task 'Netflix'
+- deploy:: [link](https://nadzey.github.io/netflix/)
